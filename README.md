@@ -1,4 +1,5 @@
 # Elevators
+![image](https://github.com/liuxier-404/Elevators/blob/master/QQ%E6%88%AA%E5%9B%BE20191224131803.jpg)
 大二数据结构-大作业1电梯够吗？
 一．题目要求：
 根据所给的写字楼人流情况模拟电梯的运行，给出每一天的来访者平均满意率和
